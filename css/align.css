@@ -37,9 +37,9 @@
 /* DESKTOPS MEDIUM */
 @media screen and (min-width: 1200px) { 
 	.content-area:not(.with-sidebar) .alignright, .content-area:not(.with-sidebar) .wp-caption.alignright {
-		margin-right: -140px; margin-left: 2em;
+		margin-right: -100px; margin-left: 2em;
 		}
 	.content-area:not(.with-sidebar) .alignleft, .content-area:not(.with-sidebar) .wp-caption.alignleft {
-		margin-left: -140px; margin-right: 2em;
+		margin-left: -100px; margin-right: 2em;
 		}	
 }
