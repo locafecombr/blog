@@ -67,7 +67,7 @@ input,
 textarea,
 select,
 button {
- 	font-family: 'Droid Serif', Georgia, serif;
+ 	font-family: 'Roboto', system-ui;
 	}
 /* HEADINGS */
 h1, h2, h3, h4, h5, h6, 
@@ -91,7 +91,7 @@ label,
 .skill-unit .bar .progress span,
 .owl-theme .owl-nav [class*='owl-'],
 .widget_categories ul li.cat-item a {
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Roboto', system-ui;
 	}
 	
 /* FONTELLO ICONS */
@@ -1261,7 +1261,7 @@ input[type=button],
 button,
 a.button,
 .button {
- 	display: inline-block; position: relative; padding: 1.4em 2.4em; font-size: 11px; font-weight: 700; letter-spacing: 1px; line-height: 1.2; border: 0; outline: 0; background: #fff; border: 2px solid #585858; color: #585858; text-transform: uppercase; text-shadow: none;
+ 	display: inline-block; position: relative; padding: 1.4em 2.4em; font-size: 11px; font-weight: 700; letter-spacing: 1px; line-height: 1.2; border: 0; outline: 0; background: #fff; color: #585858; text-transform: uppercase; text-shadow: none;
 	}
 input[type=submit]:hover,
 input[type=button]:hover,
