@@ -401,7 +401,7 @@ div.uploader,
 	width: 86%; margin-left: auto; margin-right: auto;
 	}
 .layout-fixed {
-	 max-width: 740px;
+	 max-width: 60vw;
 	}
 .layout-medium {
 	 max-width: 1040px;
