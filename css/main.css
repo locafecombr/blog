@@ -217,15 +217,7 @@ form p {
 label {
  	display: block; font-size: 10px; font-weight: bold; margin-bottom: .4em; letter-spacing: 1px; text-transform: uppercase;
 	}
-label input { 
-    font-weight: 400; font-size: 16px !important; 
-    }
-input:not([type=submit]):not([type=button]):not([type=file]):not([type=radio]):not([type=checkbox]),
-input.input-text,
-textarea,
-select {
- 	padding: .8em; width: 100%; font-size: .875em; line-height: 1; color: #333; border: 2px solid #E9E6DF; background: #fff; border-radius: 0; box-shadow: none; -webkit-appearance: none; -webkit-tap-highlight-color: transparent; box-sizing: border-box;
-	}
+
 input:not([type=submit]):not([type=button]):not([type=file]):not([type=radio]):not([type=checkbox]):hover,
 textarea:hover,
 input:hover,
